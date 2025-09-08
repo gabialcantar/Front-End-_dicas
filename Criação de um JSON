@@ -1,0 +1,22 @@
+pessoa1 = {
+nome: "Gabriela" 
+cidade: "Pompéu"
+idade: "22"
+veiculos [
+{
+marca: "KSW",
+}
+]
+}
+
+criação de um json com array 
+
+json.stringify - Cria um texto do json
+
+1) declare uma variável e no html 
+2) Adicione os dados
+3) Crie a função e adicione:
+
+function ExibirCadastro (){
+for (let x=0; x< Cadastro.length, x++)
+}
