@@ -10,3 +10,7 @@ _self – para a mesma janela – default,
 _parent – para a o frame pai,
 _top – para a janela atual inteira ou
 nome_do_frame – para um frame específico
+
+Formulário: 
+<img width="826" height="429" alt="image" src="https://github.com/user-attachments/assets/8977057e-01ec-46a5-bf33-732e792b1ece" />
+
